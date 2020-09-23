@@ -1,5 +1,5 @@
 import {Component, OnInit} from '@angular/core';
-import {FruitsService} from '../fruits.service';
+import {FruitsService} from '../../fruits.service';
 import {Observable} from 'rxjs';
 import {Fruit} from '../fruit-list/fruit';
 

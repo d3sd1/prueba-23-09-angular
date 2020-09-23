@@ -1,6 +1,6 @@
 import {BehaviorSubject, of} from 'rxjs';
-import {Fruit} from './fruit-list/fruit';
 import {delay} from 'rxjs/operators';
+import {Fruit} from './fruits/fruit-list/fruit';
 
 export class FruitsService {
 

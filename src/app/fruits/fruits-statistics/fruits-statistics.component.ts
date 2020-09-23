@@ -1,6 +1,6 @@
 import {Component, Input, OnInit} from '@angular/core';
 import {Fruit} from '../fruit-list/fruit';
-import {FruitsService} from '../fruits.service';
+import {FruitsService} from '../../fruits.service';
 
 @Component({
   selector: 'app-fruits-statistics',
